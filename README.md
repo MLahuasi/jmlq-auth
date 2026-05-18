@@ -121,14 +121,14 @@ The `host` generates links by combining `base + path` and passing the token via 
 
 ## 📌 Menu
 
-- [Architecture](./docs/architecture.md)
+- [Architecture](./docs/en/architecture.md)
 - [Configuration](./docs/en/configuration.md)
 - [Express Integration](./docs/en/integration-express.md)
 - [Troubleshooting](./docs/en/troubleshooting.md)
 
 ## 🔗 References
 
-- [`@jmlq/auth-plugin-jose`](../auth-plugin-jose/README.md)
+- [`@jmlq/auth-plugin-jose`](https://github.com/MLahuasi/jmlq-auth-plugin-jose#readme)
 
 - [`@jmlq/auth`](https://github.com/MLahuasi/jmlq-auth#readme)
 - Related ecosystem plugins:

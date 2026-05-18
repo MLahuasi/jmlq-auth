@@ -121,18 +121,18 @@ El `host` genera links combinando `base + path` y parametriza el token con `URL.
 
 ## 📌 Menú
 
-- [Arquitectura](./docs/architecture.md)
+- [Arquitectura](./docs/es/architecture.md)
 - [Configuración](./docs/es/configuration.md)
 - [Integración Express](./docs/es/integration-express.md)
 - [Troubleshooting](./docs/es/troubleshooting.md)
 
 ## 🔗 Referencias
 
-- [`@jmlq/auth-plugin-jose`](../auth-plugin-jose/README.md)
+- [`@jmlq/auth-plugin-jose`](https://github.com/MLahuasi/jmlq-auth-plugin-jose/blob/main/README.es.md)
 
-- [`@jmlq/auth`](https://github.com/MLahuasi/jmlq-auth#readme)
+- [`@jmlq/auth`](https://github.com/MLahuasi/jmlq-auth/blob/main/README.es.md)
 - Plugins relacionados del ecosistema:
-  - [`@jmlq/auth-plugin-jose`](https://github.com/MLahuasi/jmlq-auth-plugin-jose#readme)
+  - [`@jmlq/auth-plugin-jose`](https://github.com/MLahuasi/jmlq-auth-plugin-jose/blob/main/README.es.md)
 
 ## ⬅️ 🌐 Ecosistema
 
