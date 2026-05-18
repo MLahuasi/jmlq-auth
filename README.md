@@ -1,6 +1,6 @@
 # @jmlq/auth 🧩
 
-![](./assets/jmlq-auth-banner.png)
+![](./assets/jmlq-auth-banner-en.png)
 
 ## 🎯 Objective
 
