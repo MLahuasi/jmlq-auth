@@ -1,5 +1,7 @@
 # @jmlq/auth 🧩
 
+![](./assets/jmlq-auth-banner.png)
+
 ## 🎯 Objective
 
 `@jmlq/auth` is an **authentication core** (not a framework) designed with **Clean Architecture** to centralize:
@@ -112,6 +114,10 @@ The `host` generates links by combining `base + path` and passing the token via 
 - [Integrate with Express](./docs/en/integration-express.md)
 - [Configure headers/cookies and links](./docs/en/integration-express.md#refresh-token-cookie--header-fallback)
 - [Troubleshooting](./docs/en/troubleshooting.md)
+
+## 🧩 Implementation Example
+
+- [View real integration and documentation](https://github.com/MLahuasi/jmlq-ecosystem/blob/main/doc/en/%40jmlq/auth/core.md)
 
 ## 📌 Menu
 

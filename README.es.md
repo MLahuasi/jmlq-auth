@@ -1,5 +1,7 @@
 # @jmlq/auth 🧩
 
+![](./assets/jmlq-auth-banner.png)
+
 ## 🎯 Objetivo
 
 `@jmlq/auth` es un **core de autenticación** (no un framework) diseñado con **Clean Architecture** para centralizar:
@@ -112,6 +114,10 @@ El `host` genera links combinando `base + path` y parametriza el token con `URL.
 - [Integrar con Express](./docs/es/integration-express.md)
 - [Configurar headers/cookies y links](./docs/es/integration-express.md#refresh-token-cookie--header-fallback)
 - [Troubleshooting](./docs/es/troubleshooting.md)
+
+## 🧩 Ejemplo de implementación
+
+- [Consultar documentación e integración real](https://github.com/MLahuasi/jmlq-ecosystem/blob/main/doc/es/%40jmlq/auth/core.md)
 
 ## 📌 Menú
 
